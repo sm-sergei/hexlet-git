@@ -1,2 +1,1 @@
-INFO.md
-new line
+new text
